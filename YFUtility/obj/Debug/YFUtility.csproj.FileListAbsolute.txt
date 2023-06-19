@@ -1,0 +1,12 @@
+C:\Users\31586\Desktop\xyWeb\YFUtility\bin\Debug\YFUtility.dll
+C:\Users\31586\Desktop\xyWeb\YFUtility\bin\Debug\YFUtility.pdb
+C:\Users\31586\Desktop\xyWeb\YFUtility\obj\Debug\YFUtility.csproj.AssemblyReference.cache
+C:\Users\31586\Desktop\xyWeb\YFUtility\obj\Debug\YFUtility.csproj.CoreCompileInputs.cache
+C:\Users\31586\Desktop\xyWeb\YFUtility\obj\Debug\YFUtility.dll
+C:\Users\31586\Desktop\xyWeb\YFUtility\obj\Debug\YFUtility.pdb
+C:\Users\31586\Desktop\xyWeb\.NET\YFUtility\bin\Debug\YFUtility.dll
+C:\Users\31586\Desktop\xyWeb\.NET\YFUtility\bin\Debug\YFUtility.pdb
+C:\Users\31586\Desktop\xyWeb\.NET\YFUtility\obj\Debug\YFUtility.csproj.AssemblyReference.cache
+C:\Users\31586\Desktop\xyWeb\.NET\YFUtility\obj\Debug\YFUtility.csproj.CoreCompileInputs.cache
+C:\Users\31586\Desktop\xyWeb\.NET\YFUtility\obj\Debug\YFUtility.dll
+C:\Users\31586\Desktop\xyWeb\.NET\YFUtility\obj\Debug\YFUtility.pdb

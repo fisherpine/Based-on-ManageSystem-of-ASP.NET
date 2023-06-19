@@ -1,0 +1,12 @@
+C:\Users\31586\Desktop\xyWeb\YFModel\bin\Debug\YFModel.dll
+C:\Users\31586\Desktop\xyWeb\YFModel\bin\Debug\YFModel.pdb
+C:\Users\31586\Desktop\xyWeb\YFModel\obj\Debug\YFModel.csproj.AssemblyReference.cache
+C:\Users\31586\Desktop\xyWeb\YFModel\obj\Debug\YFModel.csproj.CoreCompileInputs.cache
+C:\Users\31586\Desktop\xyWeb\YFModel\obj\Debug\YFModel.dll
+C:\Users\31586\Desktop\xyWeb\YFModel\obj\Debug\YFModel.pdb
+C:\Users\31586\Desktop\xyWeb\.NET\YFModel\bin\Debug\YFModel.dll
+C:\Users\31586\Desktop\xyWeb\.NET\YFModel\bin\Debug\YFModel.pdb
+C:\Users\31586\Desktop\xyWeb\.NET\YFModel\obj\Debug\YFModel.csproj.AssemblyReference.cache
+C:\Users\31586\Desktop\xyWeb\.NET\YFModel\obj\Debug\YFModel.csproj.CoreCompileInputs.cache
+C:\Users\31586\Desktop\xyWeb\.NET\YFModel\obj\Debug\YFModel.dll
+C:\Users\31586\Desktop\xyWeb\.NET\YFModel\obj\Debug\YFModel.pdb
